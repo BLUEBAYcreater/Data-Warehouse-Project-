@@ -1,5 +1,4 @@
 ## Summary
-This project is the third project for Udacity Data Engineering Nanodegree Program.
 The project aims to test the understanding of Data warehousing concepts.
 The task includes facilitating the Sparkify start up in setting up a data warehouse
 that would have the songs data to which the users are listening to. 
